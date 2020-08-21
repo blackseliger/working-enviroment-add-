@@ -1,0 +1,28 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackseliger/working-enviroment-add-.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "BlackSeliger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackseliger/working-enviroment-add-/issues"
+  },
+  "homepage": "https://github.com/blackseliger/working-enviroment-add-#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
